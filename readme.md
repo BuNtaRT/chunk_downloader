@@ -32,7 +32,7 @@ Clean up the `js` folder by removing unwanted files as needed.
 Run:
 
 ```bash
-npx prettier --write "js/**/*.{js,json,ts,css,md}"
+npx prettier --write "js/**/*.js"
 ```
 
 This formats all JavaScript and related files inside the `js` directory.

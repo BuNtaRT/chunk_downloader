@@ -1,4 +1,4 @@
-````
+
 # Usage Instructions
 
 ### Install dependencies
@@ -49,7 +49,3 @@ node combiner.js
 
 The combined output will be saved as `result.js`.
 
-````
-
-(Но при вставке сюда с тройными кавычками Markdown может парсить код, поэтому если нужно полностью «сырым» — можно добавить языковую метку в кавычках, например ```plaintext)
-````
